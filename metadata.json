@@ -1,0 +1,6 @@
+{
+  "name": "পোশাক - জামা কাপড় ও ফ্যাশন স্টোর",
+  "description": "প্রিমিয়াম জামা কাপড়, শাড়ি, পাঞ্জাবি, শার্ট, কুর্তি ও শিশুদের আধুনিক পোশাকের বিশ্বস্ত অনলাইন ফ্যাশন শপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
